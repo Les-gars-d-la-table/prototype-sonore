@@ -3,5 +3,5 @@ Les sons présent dans ce repository sont les démos des sons et musique qui von
 ## plugins utilisés
 - audible intruments
 - valley
-- -befaco
+- befaco
 ![rack](medias/rack.PNG)
