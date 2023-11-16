@@ -3,7 +3,7 @@ Les sons présent dans ce repository sont les démos des sons et musique qui von
 ## Logiciels utilisées
 - VCV Rack
 - Reaper
-## plugins utilisés
+## plugins utilisés dans Rack
 - audible intruments
 - valley
 - befaco
